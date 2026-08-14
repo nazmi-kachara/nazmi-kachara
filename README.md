@@ -94,9 +94,9 @@ I work with venture-backed **AI, DevTools, Data, Digital Health, and Healthcare*
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naaz2004&color=5FE0D0&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Naaz2004?style=for-the-badge&color=5FE0D0&logo=github&logoColor=black&label=Followers)
-![Member Since](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Naaz2004&label=Member%20Since&query=%24.created_at&style=for-the-badge&color=1b4965&logo=github&logoColor=5FE0D0)
+![Profile Views](https://komarev.com/ghpvc/?username=nazmi-kachara&color=5FE0D0&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/nazmi-kachara?style=for-the-badge&color=5FE0D0&logo=github&logoColor=black&label=Followers)
+![Member Since](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nazmi-kachara&label=Member%20Since&query=%24.created_at&style=for-the-badge&color=1b4965&logo=github&logoColor=5FE0D0)
 
 </div>
 
