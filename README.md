@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nazmikachara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmikachara)
 [![Aurrum Services](https://img.shields.io/badge/Aurrum_Services-aurrum.co-5FE0D0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://aurrum.co)
-[![Phone](https://img.shields.io/badge/Call-9328067011-1b4965?style=for-the-badge&logo=whatsapp&logoColor=5FE0D0)](tel:+919328067011)
+
 
 <br/>
 
