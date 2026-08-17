@@ -32,7 +32,7 @@ I work with venture-backed **AI, DevTools, Data, Digital Health, and Healthcare*
 - 🌍 Recruiting across UK, US, Canada, Australia & New Zealand
 - 🤖 Focus: AI, Enterprise Technology, and Healthcare hiring
 - 🤝 Always happy to connect with hiring leaders, talent professionals, and exceptional candidates
-- 📫 Reach me: **+91 93280 67011**
+- 📫 Reach me:  nazmi.kachara@aurrum.co
 
 ---
 
