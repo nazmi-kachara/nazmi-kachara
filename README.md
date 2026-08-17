@@ -25,7 +25,7 @@
 
 I'm **Nazmi Kachara**, a Recruitment Consultant at **Aurrum Services**, supporting clients across the **UK, US, Canada, Australia, and New Zealand** with hiring across **AI, Technology, Healthcare, and Go-to-Market** functions.
 
-My work spans everything from **Forward Deployed Engineers** and **Solutions Engineers** to **Enterprise Account Executives**, **Physicians**, and **Healthcare Leaders** — business-critical hires that sit at the intersection of technology, revenue, operations, and patient care.
+My work spans everything from **Forward Deployed Engineers** and **Solutions Engineers** to **AI Engineer**, **Physicians**, and **Healthcare Leaders** — business-critical hires that sit at the intersection of technology, revenue, operations, and patient care.
 
 I work with venture-backed **AI, DevTools, Data, Digital Health, and Healthcare** organisations that need talent who can deploy and scale AI in production, partner with enterprise and clinical stakeholders, and drive real business impact.
 
